@@ -1,0 +1,17 @@
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DataAccessEfCore.deps.json
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DataAccessEfCore.runtimeconfig.json
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DataAccessEfCore.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DataAccessEfCore.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.csproj.AssemblyReference.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.AssemblyInfoInputs.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.AssemblyInfo.cs
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.csproj.CoreCompileInputs.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\refint\Products.DataAccessEfCore.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.genruntimeconfig.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\ref\Products.DataAccessEfCore.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DTO.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\bin\Debug\net6.0\Products.DTO.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\Products.DataAccessEfCore\obj\Debug\net6.0\Products.DataAccessEfCore.csproj.CopyComplete

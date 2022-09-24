@@ -1,0 +1,17 @@
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\ProductsWeb.Services.deps.json
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\ProductsWeb.Services.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\ProductsWeb.Services.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\Products.DataAccessEfCore.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\Products.DataAccessEfCore.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.csproj.AssemblyReference.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.AssemblyInfoInputs.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.AssemblyInfo.cs
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.csproj.CoreCompileInputs.cache
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.csproj.CopyComplete
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\refint\ProductsWeb.Services.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ProductsWeb.Services.pdb
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\obj\Debug\net6.0\ref\ProductsWeb.Services.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\Products.DTO.dll
+C:\Users\Moksim\source\repos\ProductsWeb.Api\ProductsWeb.Services\bin\Debug\net6.0\Products.DTO.pdb
